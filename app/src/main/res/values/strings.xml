@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MySunshine</string>
     <string name="hello_world">Hello, my sunshine!</string>
+    <string name="button">Try my view!</string>
+    <string name="large">21°</string>
+    <string name="medium">8°</string>
+    <string name="robot">robot picture</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="refresh">Refresh</string>
 </resources>
